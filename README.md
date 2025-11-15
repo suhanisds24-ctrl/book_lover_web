@@ -1,0 +1,2 @@
+# book_lover_web
+Book Lover is a user-friendly, multi-page website designed for book enthusiasts who want to donate, swap, discover, and explore books. The platform creates a community space where readers can share books, explore genres, and connect with other book lovers.
